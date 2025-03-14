@@ -24,7 +24,7 @@ A Laravel-based RESTful API that aggregates news from multiple sources including
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/robinbedi786/backend-laravel-challenge/>
 cd laravel-assignment
 ```
 
